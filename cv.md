@@ -27,8 +27,8 @@
 
 ### iOS Testing and Automation Consultant (2014/09 - 2019/09, Melbourne AU)
 
-Assisted organizations of all sizes, from startups to enterprise agencies, in developing iOS applications.
-Focused on Test Driven Development, software architectures that allow testing, and the setup of automated infrastructures for Continuous Integration and Deployment.
+- Assisted organizations of all sizes, from startups to enterprise agencies, in developing iOS applications.
+- Focused on Test Driven Development, software architectures that allow testing, and the setup of automated infrastructures for Continuous Integration and Deployment.
 
 #### Clients Highlights
 
