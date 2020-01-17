@@ -63,7 +63,7 @@
 ### Co-Founder & Frontend Developer at [Kunerango](https://kunerango.com/) (2011/10 - 2012/07, Ferrara IT)
 
 - Together with four university colleagues, we built a platform for college professors to deliver lessons over the internet and where students could form study groups, discuss, and share notes
-- Implemented the prototype of [Kunerango](https://kunerango.com/), taking care mainly of the front-end side of the web app built with [Ruby on Rails](http://rubyonrails.org/), relying on [Twitter Boostrap](http://getbootstrap.com/).
+- Implemented the prototype of [Kunerango](https://kunerango.com/), taking care mainly of the front-end side of the web app built with [Ruby on Rails](http://rubyonrails.org/), relying on [Twitter Bootstrap](http://getbootstrap.com/).
 
 #### References
 
