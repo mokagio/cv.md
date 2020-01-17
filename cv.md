@@ -42,7 +42,7 @@
 
 - Maintained the customer-facing [BIZZBY iOS App](https://itunes.apple.com/gb/app/bizzby-on-demand-services/id659352778), focusing on refactoring and building up test coverage, alongside new features development.
 - Developed a new app for service providers, delivered via Enterprise Distribution. This app had rapid release cycles, with up to one release per day.
-- Minor work on the backend, built on [Node.js](http://nodejs.org/) with a [Coffeecript](http://coffeescript.org/) overlay, and saving data on [MongoDB](http://www.mongodb.org).
+- Minor work on the backend, built on [Node.js](http://nodejs.org/) with a [Coffeescript](http://coffeescript.org/) overlay, and saving data on [MongoDB](http://www.mongodb.org).
 
 #### References
 
