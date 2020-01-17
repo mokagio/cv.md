@@ -8,9 +8,10 @@
 
 
 <!-- Need double new line to generate two lists nodes -->
-- GitHub: [mokagio](https://github.com/mokagio)
-- Twitter: [@mokagio](https://twitter.com/mokagio)
 - Blog: [mokacoding](http://mokacoding.com)
+- GitHub: [mokagio](https://github.com/mokagio)
+- StackOverflow: [mokagio](https://stackoverflow.com/users/809944/mokagio)
+- Twitter: [@mokagio](https://twitter.com/mokagio)
 
 ## Experience
 
