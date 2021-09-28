@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 namespace :build do
   desc 'Build the HTML code for the CV, using the template and the md source'
   task :html do
@@ -16,12 +18,12 @@ end
 desc 'Deploy gh-page'
 task :deploy do
   sh 'git checkout gh-pages'
-  sh 'git merge origin/master -m "Merge remote origin/master on gh-pages"'
+  sh 'git merge origin/main -m "Merge remote origin/main on gh-pages"'
   Rake::Task['build:html'].invoke
-  sh 'rm index.html' if File.exists? 'index.html'
+  sh 'rm index.html' if File.exist? 'index.html'
   sh 'cp cv/cv.html index.html'
   sh 'git add .'
   sh "git commit -m 'Deploy #{Time.now.to_i}'"
   sh 'git push origin gh-pages'
-  sh 'git checkout master'
+  sh 'git checkout main'
 end
