@@ -13,9 +13,10 @@
 - StackOverflow: [mokagio](https://stackoverflow.com/users/809944/mokagio)
 - Twitter: [@mokagio](https://twitter.com/mokagio)
 
-_**[Test-Driven Development in Swift](https://tddinswift.com)**_ author, published with [Apress](https://www.apress.com/gp/book/9781484270011)
 
 ## Experience
+
+### Published _[Test-Driven Development in Swift](https://tddinswift.com)_ with [Apress](https://www.apress.com/gp/book/9781484270011) (2021/07)
 
 ### Mobile Infrastructure Engineer at [Automattic](https://automattic.com) (2020/03 - Present, Remote)
 
