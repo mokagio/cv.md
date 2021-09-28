@@ -17,7 +17,14 @@ _**[Test-Driven Development in Swift](https://tddinswift.com)**_ author, publish
 
 ## Experience
 
-### iOS Lead at [iflix](https://iflix.com) (2016/09 - Present, Melbourne AU)
+### Mobile Infrastructure Engineer at [Automattic](https://automattic.com) (2020/03 - Present, Remote)
+
+- Part of the release engineering team responsible for the [WordPress](https://github.com/wordpress-mobile/WordPress-iOS/pulls?q=is%3Apr+author%3Amokagio+is%3Aclosed), [WooCommerce](https://github.com/woocommerce/woocommerce-ios/pulls?q=is%3Apr+author%3Amokagio+is%3Aclosed), and [Simplenote](https://github.com/Automattic/simplenote-ios/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Aclosed+author%3Amokagio) fortnightly [release cycle](https://mobile.blog/2021/03/12/two-simple-techniques-to-make-your-release-process-more-asynchronous-and-decentralized/)
+- Maintain and improve the Continuous Integration infrastructure for Automattic's suite of mobile project
+- Develop new tools and infrastructure to increase developer productivity, such as the [XCUITestHelper](https://github.com/Automattic/XCUITestHelpers) and [ScreenObject](https://github.com/Automattic/ScreenObject) projects
+- Collaborate with the [Gutenberg](https://wordpress.org/plugins/gutenberg/) React Native developers on the integration tooling into the WordPress iOS and Android apps
+
+### iOS Lead at [iflix](https://iflix.com) (2016/09 - 2020/01, Melbourne AU)
 
 - Built a native 4+ stars and 99+% crash-free app with multiple App Store features.
 - Worked with Swift, GraphQL, REST, Carthage, CocoaPods, Fastlane, AWS, Objective-C.
