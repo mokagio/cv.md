@@ -1,5 +1,5 @@
 # Gio Lodi
-## Software Engineer - iOS Testing and Automation Expert
+## Software Engineer - Mobile Testing and Infrastructure Enthusiast
 
 - Melbourne, Australia
 - [gio@mokacoding.com](mailto:gio+cv@mokacoding.com)
@@ -12,6 +12,8 @@
 - GitHub: [mokagio](https://github.com/mokagio)
 - StackOverflow: [mokagio](https://stackoverflow.com/users/809944/mokagio)
 - Twitter: [@mokagio](https://twitter.com/mokagio)
+
+_**[Test-Driven Development in Swift](https://tddinswift.com)**_ author, published with [Apress](https://www.apress.com/gp/book/9781484270011)
 
 ## Experience
 
