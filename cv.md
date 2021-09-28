@@ -110,17 +110,14 @@ B.S. in Software Engineering at [Universit&agrave; degli Studi di Ferrara](http:
 
 ## Bio
 
-I was born in and grew up in Italy.
-After getting a B.S. in Software Engineering and a couple of experiences in the local web development industry, I got a one-way ticket to London, in search of an iOS job and personal growth.
+I was born and grew up in Italy.
+After getting a B.S. in Software Engineering and a couple of experiences in the local web development industry, I got a one-way ticket to London, in search of a job and personal growth.
+I was lucky enough to find both and a partner, too.
 
-I was lucky enough to not only find that but a partner as well.
-When Nadine’s UK visa finished, and she had to fly back home to Australia, it was easy for me to go along.
-We’ve been living in the beautiful Mornington Peninsula, one hour south of Melbourne, for the past six years, and decided to start our family here.
+When my partner’s UK visa ended and she had to return home to Australia, it was easy for me to go along.
+We’ve been living in the beautiful Mornington Peninsula, one hour south of Melbourne, since 2016.
 
-As the father of a 3-year-old boy and an 8-month-old girl, I spend my spare time playing and doing activities.
-Right now, our favorite thing to do with my son is to go swimming, and we’ll start lessons with my daughter too in a few months.
-I love reading picture books to them.
+As the father of two young children, I spend my spare time playing, doing activities, and reading with them.
 
 When the kids go to bed, I enjoy reading.
-My favorite genres are business, productivity, and Stoic philosophy, as well as sci-fi novels.
-Still, I’ll pick up anything if a friend recommends it.
+My favorite genres are business, productivity, Stoic philosophy, and sci-fi.
